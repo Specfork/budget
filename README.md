@@ -3,6 +3,7 @@ specfork: 1
 name: "@specfork/budget"
 summary: Local-first personal envelope budget with accounts, split and transfer transactions, monthly assign and rollover, schedules, rules, reconciliation, file import, bank feeds, reports and optional sync.
 license: CC-BY-4.0
+tags: [personal, finance]
 requires:
   "@specfork/auth": "^0.3.0"
   "@specfork/privacy": "^0.1.0"
